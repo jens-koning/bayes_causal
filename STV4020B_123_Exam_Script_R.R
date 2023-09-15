@@ -1,5 +1,5 @@
 ########### Exam STV4020B, Fall 2021, Script, Candidate: 123 ############
-# These scripts are also included at the end of each weak in the PDF document. 
+# These scripts are also included at the end of each week in the PDF document. 
 
 #### Exam Week 1 ####
 install.packages("tidyverse")
